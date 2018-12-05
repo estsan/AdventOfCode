@@ -1,0 +1,11 @@
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\bin\Debug\netcoreapp2.1\FirstDoor.deps.json
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\bin\Debug\netcoreapp2.1\FirstDoor.runtimeconfig.json
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\bin\Debug\netcoreapp2.1\FirstDoor.runtimeconfig.dev.json
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\bin\Debug\netcoreapp2.1\FirstDoor.dll
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\bin\Debug\netcoreapp2.1\FirstDoor.pdb
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.csprojAssemblyReference.cache
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.csproj.CoreCompileInputs.cache
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.AssemblyInfoInputs.cache
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.AssemblyInfo.cs
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.dll
+C:\Users\ester.sandstrom\source\repos\AdventOfCode\FirstDoor\FirstDoor\obj\Debug\netcoreapp2.1\FirstDoor.pdb
